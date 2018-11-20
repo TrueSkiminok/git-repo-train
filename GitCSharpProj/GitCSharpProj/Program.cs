@@ -11,6 +11,7 @@ namespace GitCSharpProj
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!!");
+            Console.WriteLine("Whats up?");
             Console.ReadKey();
         }
     }
